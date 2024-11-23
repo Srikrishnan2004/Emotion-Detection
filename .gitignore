@@ -1,0 +1,8 @@
+# Environments
+./.venv1
+./.venv
+./emotion-detection-from-text
+
+# IDE specification
+.idea
+
